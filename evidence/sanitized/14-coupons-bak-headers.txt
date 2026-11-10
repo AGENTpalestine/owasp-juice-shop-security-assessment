@@ -1,0 +1,12 @@
+HTTP/1.1 403 Forbidden
+Access-Control-Allow-Origin: *
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Feature-Policy: payment 'self'
+X-Recruiting: /#/jobs
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Date: Mon, 09 Nov 2026 21:42:13 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked

@@ -1,0 +1,24 @@
+# Original raw evidence — never publish
+/evidence/raw/
+
+# Publish only reviewed evidence
+/evidence/screenshots/
+
+# Backup and draft reports
+*.old.md
+*.pre-format.md
+*~
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.log
+
+# Outdated root-level report
+/Technical-Assessment-Report.md

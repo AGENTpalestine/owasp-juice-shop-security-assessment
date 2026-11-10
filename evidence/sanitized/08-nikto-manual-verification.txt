@@ -1,0 +1,12 @@
+===== /robots.txt =====
+HTTP: 200 | Size: 28 bytes | Type: text/plain; charset=utf-8
+===== /ftp/ =====
+HTTP: 200 | Size: 11274 bytes | Type: text/html; charset=utf-8
+===== /.htpasswd =====
+HTTP: 200 | Size: 9984 bytes | Type: text/html; charset=UTF-8
+===== /.bash_history =====
+HTTP: 200 | Size: 9984 bytes | Type: text/html; charset=UTF-8
+===== /userdata.json =====
+HTTP: 200 | Size: 9984 bytes | Type: text/html; charset=UTF-8
+===== /login.json =====
+HTTP: 200 | Size: 9984 bytes | Type: text/html; charset=UTF-8
